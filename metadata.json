@@ -1,0 +1,6 @@
+{
+  "name": "Halal-Invest",
+  "description": "Evidence-first halal investment research, analysis, monitoring and investment-assessment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
